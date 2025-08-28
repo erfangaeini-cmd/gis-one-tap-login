@@ -1,0 +1,8 @@
+# در ریشهٔ repo
+git pull
+# (وب را ترجیح بده چون تمپلیت آماده است؛ اما اگر خواستی دستی اضافه کنی:)
+printf "GNU GENERAL PUBLIC LICENSE\nVersion 2, June 1991\n" > LICENSE
+# (بهتر است متن کامل GPL-2.0 را در این فایل قرار دهی؛ روش وب دقیق‌تر است)
+git add LICENSE
+git commit -m "chore: add GPL-2.0 (or later) license"
+git push
