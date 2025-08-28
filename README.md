@@ -23,3 +23,5 @@ Google One Tap Login with auto-select for WordPress. Includes dashboard widget f
 
 ## Changelog
 - v1.3.3 – Initial GitHub release.
+![License](https://img.shields.io/badge/license-GPL--2.0--or--later-blue.svg)
+![Release](https://img.shields.io/github/v/release/erfangaeini-cmd/gis-one-tap-login)
